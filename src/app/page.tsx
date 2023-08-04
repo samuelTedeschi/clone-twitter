@@ -1,5 +1,6 @@
 import LeftSidebar from "@/components/LeftSidebar";
 import MainComponents from "@/components/MainComponest";
+import RightSidebar from "@/components/RightSidebar";
 
 
 export default function Home() {
@@ -10,9 +11,7 @@ export default function Home() {
 
         <MainComponents/>
 
-        {/* 
-        <section>right menu</section>
-        */}
+        <RightSidebar/>
       </div>
     </div>
   );
