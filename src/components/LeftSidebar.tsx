@@ -61,7 +61,7 @@ export default function LeftSidebar() {
       </div>
 
       <button
-        className="bg-transparent w-full justify-between m-4 rounded-full flex items-center space-x-2 p-4 text-center hover:bg-white/10 transition
+        className="bg-transparent w-full justify-between  rounded-full flex items-center space-x-2 p-4 text-center hover:bg-white/10 transition
           duration-200"
       >
         <div className="flex items-center space-x-2">
